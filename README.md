@@ -1,1 +1,1 @@
-# changelog-examaple
+# changelog-example
