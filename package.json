@@ -52,5 +52,18 @@
   "dependencies": {
     "@types/request": "^2.48.8",
     "fs-extra": "^10.1.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baisheng/changelog-examaple.git"
+  },
+  "keywords": [],
+  "author": "baisheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baisheng/changelog-examaple/issues"
+  },
+  "homepage": "https://github.com/baisheng/changelog-examaple#readme"
 }
